@@ -1,0 +1,10 @@
+programa {
+    inteiro idade;
+    texto nome;
+
+    nome = "Felipe";
+    idade = 21;
+
+    escreva("Olá, " + nome);
+    escreva("Você tem " + idade + " anos.");
+}

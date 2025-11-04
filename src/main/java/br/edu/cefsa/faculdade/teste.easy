@@ -1,0 +1,7 @@
+programa {
+    inteiro numero;
+    texto palavra;
+
+    numero = "texto"; // ERRO
+    palavra = 123;    // ERRO
+}

@@ -1,0 +1,6 @@
+programa {
+    inteiro x;
+
+    x = 10;
+    y = 20; // ERRO: variável 'y' não foi declarada
+}
